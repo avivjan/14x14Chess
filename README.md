@@ -1,5 +1,3 @@
- Chess Program body { font-family: Arial, sans-serif; line-height: 1.6; margin: 30px; padding: 0; } h1 { font-size: 32px; margin-bottom: 20px; } h2 { font-size: 26px; margin-bottom: 15px; } p { margin-bottom: 10px; } code { font-family: Consolas, monospace; font-size: 14px; background-color: #f9f9f9; padding: 2px 4px; border-radius: 4px; }
-
 Chess Program
 =============
 
@@ -23,7 +21,7 @@ Getting Started
 To get started with the Chess Program, follow these steps:
 
 1.  Clone the repository: `git clone https://github.com/your-username/chess-program.git`
-2.  Navigate to the project directory: `cd chess-program`
+2.  Navigate to the project directory.
 3.  Open the index.html file in your preferred web browser
 4.  Start playing chess and enjoy!
 
@@ -46,4 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contact
 -------
 
-If you have any questions, suggestions, or issues, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or issues, please feel free to contact us at [your-email@example.com](mailto:avivjanwork@gmail.com).
