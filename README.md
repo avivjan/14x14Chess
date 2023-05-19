@@ -20,7 +20,7 @@ Getting Started
 
 To get started with the Chess Program, follow these steps:
 
-1.  Clone the repository: `git clone https://github.com/your-username/chess-program.git`
+1.  Clone the repository: `git clone git@github.com:avivjan/14x14Chess.git`
 2.  Navigate to the project directory.
 3.  Open the index.html file in your preferred web browser
 4.  Start playing chess and enjoy!
